@@ -50,8 +50,9 @@ This application was created by Madita Feindt.
 
 ## Acknowledgments
 
-- Inspiration and guidance from GeeksforGeeks(https://www.geeksforgeeks.org/) for certain aspects of the code.
--  GIPHY for providing the API.
+- For reading and helping with my script: Luis Beaucamp.
+- For being patient and being patient test users: Louisa, Lilia, Ruben, Basti ;)
+- GIPHY for providing the API.
 - ChatGPT for writing a snippet where I was stuck (Marked in the script)
 
 Feel free to explore, customize, and chat!:)
