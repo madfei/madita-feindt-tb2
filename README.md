@@ -5,7 +5,7 @@ Repository for my Tech Basics II assessment at Leuphana University
 The GUPHY Chat Application is a simple GUI chat application that allows users to interact with the GIPHY API to fetch and display random GIFs. You can interact with 4 different settings, depending on what you want the answer to look like. Next to the first page with random results,  you have the possibility to receive GIF responses with specific emotions (angry, funny, and serious). The application uses the Tkinter library for creating the graphical interface and the PIL library for handling images. 
 
 # Visuals
-
+Screen recording of the GUPHY in the repo.
 
 ## Requirements
 
